@@ -752,6 +752,7 @@
                 "margin-bottom": "0.5rem"
               }
             },
+}
             "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
               ".navbar": {
                 "height": "70px",
